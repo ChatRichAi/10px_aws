@@ -34,3 +34,4 @@
 
 9、启动项目
      -｜npm install @headlessui/react react-textarea-autosize
+     -|npm run dev
