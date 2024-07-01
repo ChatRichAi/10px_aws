@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+运行前端需要安装以下环境：
+1. Node.js 和 npm: 运行和管理 JavaScript 项目的基本工具。
+2. TypeScript: 项目使用 TypeScript 编写，因此需要安装 TypeScript 编译器。
+3. React 和相关库: 项目使用 React 框架，因此需要安装 React 及其相关库。
+4. Next.js: 项目可能使用了 Next.js 框架（根据 next/link 的引用）。
+5. Chakra UI: 项目使用了 Chakra UI 组件库。
+6. Tailwind CSS: 项目使用了 Tailwind CSS 进行样式管理。
+你可以通过以下步骤安装这些环境：
+1. 安装 Node.js 和 npm:
+请从 Node.js 官网 下载并安装 Node.js，它会同时安装 npm。
+2. 初始化项目:
+在你的项目根目录下运行以下命令来初始化一个新的 Node.js 项目：
 
-## Getting Started
+1. 安装 Node.js 和 npm:
+请从 Node.js 官网 下载并安装 Node.js，它会同时安装 npm。
 
-First, run the development server:
+2. 初始化项目:
+在你的项目根目录下运行以下命令来初始化一个新的 Node.js 项目：
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+3. 安装 TypeScript:
+   npm install typescript --save-dev
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. 安装 React 和相关库:
+   npm install react react-dom
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+6. 安装 Chakra UI:
+   npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+7. 安装 Tailwind CSS:
+    按照 Tailwind CSS 官方文档 中的步骤进行安装和配置。
 
-## Learn More
+8、 @headlessui/react 和 react-textarea-autosize：
+    npm install @headlessui/react react-textarea-autosize
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+9、启动项目
+     npm install @headlessui/react react-textarea-autosize
