@@ -6,6 +6,12 @@ export const navigation = [
         url: "/",
     },
     {
+        id: "7",
+        title: "盘口回滚",
+        icon: "wallet",
+        url: "/handicap",
+    },
+    {
         id: "1",
         title: "资产中心",
         icon: "wallet",
